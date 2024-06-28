@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ボタンをクリックするとON/OFFの表示が切り替わる 1`] = `
+<div>
+  <button>
+    OFF
+  </button>
+</div>
+`;
